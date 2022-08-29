@@ -74,7 +74,7 @@ class _HomePageState extends State<HomePage> {
                   borderRadius: BorderRadius.circular(50),
                   borderSide: BorderSide.none
               ),
-              hintText: "Search e.g Software Developer",
+              hintText: "Search e.g Pokemon",
               hintStyle: TextStyle(fontSize: 14),
 
             ),
